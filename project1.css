@@ -1,4 +1,9 @@
+
+html{
+width:100%;
+}
 body {
+  
   min-height: 100vh;
   display: flex;
   align-items: center;
@@ -29,3 +34,4 @@ body {
 .hexBtn:hover {
   background: rgba(0, 0, 0);
 }
+
